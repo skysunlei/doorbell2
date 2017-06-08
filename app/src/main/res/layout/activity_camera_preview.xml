@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <SurfaceView 
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/surfaceView"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="right"
+        android:orientation="vertical" >
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:onClick="capture"
+            android:background="@drawable/ic_launcher" />
+
+        <Button
+            android:id="@+id/startTranscribe"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/ic_launcher" />
+        <Button
+            android:id="@+id/stopTranscribe"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/ic_launcher" />
+    </LinearLayout>
+
+</FrameLayout>

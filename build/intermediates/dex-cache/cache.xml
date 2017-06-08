@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\sky\Desktop\doorbell2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="C:\Users\sky\Desktop\doorbell2\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-20.0.0_a081dc8e426bdefa098686e2f1e6aa16b35374cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sky\Desktop\doorbell2\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Users\sky\Desktop\doorbell2\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-20.0.0_1fb93f16c5f10b881bb9c5e69851d514cec9fc4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sky\Desktop\doorbell2\app\libs\android-support-v7-recyclerview.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95c892d244f49414bbdf92c2235a32ea06bc68aa">
+        <dex dex="C:\Users\sky\Desktop\doorbell2\app\build\intermediates\pre-dexed\debug\android-support-v7-recyclerview_f044effe31a7c91354962b8998c04ce03d6efc85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sky\Desktop\doorbell2\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\Users\sky\Desktop\doorbell2\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0_e0245e44b30f5da6c1a4e88ca92d45c207099f85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidstudioSDK\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="C:\Users\sky\Desktop\doorbell2\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0_7854c4272f2bda1222c32fa27f97da3dd4b01f4c.jar" />
+    </item>
+
+</items>
