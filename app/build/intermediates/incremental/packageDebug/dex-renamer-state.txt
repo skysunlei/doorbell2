@@ -1,4 +1,7 @@
-#Thu Jun 08 19:18:34 CST 2017
-base.0=C\:\\Users\\sky\\Desktop\\doorbell2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Fri Jun 09 16:26:33 CST 2017
+base.0=C\:\\Users\\sky\\Desktop\\doorbell2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3d1cdda6c404440eaedb92d0c9b950f83735203a
+renamed.1=classes2.dex
 renamed.0=classes.dex
-file.0=C\:\\Users\\sky\\Desktop\\doorbell2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.1=C\:\\Users\\sky\\Desktop\\doorbell2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ed79b0c7781395070146200d64fcc53ec0d32c32\\classes.dex
+base.1=C\:\\Users\\sky\\Desktop\\doorbell2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ed79b0c7781395070146200d64fcc53ec0d32c32
+file.0=C\:\\Users\\sky\\Desktop\\doorbell2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3d1cdda6c404440eaedb92d0c9b950f83735203a\\classes.dex

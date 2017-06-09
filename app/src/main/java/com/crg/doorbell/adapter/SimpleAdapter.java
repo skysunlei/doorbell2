@@ -1,6 +1,8 @@
 package com.crg.doorbell.adapter;
 
 import android.content.Context;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -23,6 +25,8 @@ public class SimpleAdapter extends RecyclerView.Adapter<MyViewHolder> {
 
     private List<String> mDatas;
 
+
+
     public SimpleAdapter(Context context , List<String> datas) {
 
         this.mComtext = context;
@@ -43,6 +47,13 @@ public class SimpleAdapter extends RecyclerView.Adapter<MyViewHolder> {
     @Override
     public void onBindViewHolder(MyViewHolder myViewHolder, int i) {
         myViewHolder.textView.setText(mDatas.get(i));
+
+        String s = "/sdcard/doorbellVideo/2017-6-8/2017-6-8-101349.png";
+        BitmapFactory.Options options = new BitmapFactory.Options();
+        options.inSampleSize = 2;
+        Bitmap bm = BitmapFactory.decodeFile(s, options);
+        myViewHolder.imageView.setImageBitmap(bm);
+
 
     }
 

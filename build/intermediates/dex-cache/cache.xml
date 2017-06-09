@@ -2,49 +2,76 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="C:\Users\sky\Desktop\doorbell2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\jars\classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\sky\Desktop\doorbell2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c66347f8f4ea4c6e9bae27198e8d8394af107433">
+        <dex dex="C:\Users\sky\Desktop\doorbell2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ed79b0c7781395070146200d64fcc53ec0d32c32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sky\.android\build-cache\44c8c918358ab566b2f0b52abc60b99d2559e7a2\output\jars\classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
-        <dex dex="C:\Users\sky\Desktop\doorbell2\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-20.0.0_a081dc8e426bdefa098686e2f1e6aa16b35374cb.jar" />
+        <dex dex="C:\Users\sky\Desktop\doorbell2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_47c3fd26783979d3dd9e375ea017e8080fa52dce\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\sky\Desktop\doorbell2\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
-        <dex dex="C:\Users\sky\Desktop\doorbell2\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-20.0.0_1fb93f16c5f10b881bb9c5e69851d514cec9fc4b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\sky\Desktop\doorbell2\app\libs\android-support-v7-recyclerview.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="95c892d244f49414bbdf92c2235a32ea06bc68aa">
-        <dex dex="C:\Users\sky\Desktop\doorbell2\app\build\intermediates\pre-dexed\debug\android-support-v7-recyclerview_f044effe31a7c91354962b8998c04ce03d6efc85.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\sky\Desktop\doorbell2\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\sky\.android\build-cache\f64b68efdfa516779db9917dcfebc77e59b3686e\output\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
-        <dex dex="C:\Users\sky\Desktop\doorbell2\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0_e0245e44b30f5da6c1a4e88ca92d45c207099f85.jar" />
+        <dex dex="C:\Users\sky\Desktop\doorbell2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-20.0.0_f6bf3e7008f1d9ee6dd21cc6c51a481241b1acc5\classes.dex" />
     </item>
     <item
-        is-multidex="false"
+        is-multidex="true"
+        jar="C:\Users\sky\Desktop\doorbell2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\sky\Desktop\doorbell2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3d1cdda6c404440eaedb92d0c9b950f83735203a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sky\.android\build-cache\f64b68efdfa516779db9917dcfebc77e59b3686e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Users\sky\Desktop\doorbell2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6f2f235c61fb3a26af6d16166b066ce58075fd57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sky\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.1\2a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0\gson-2.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0">
+        <dex dex="C:\Users\sky\Desktop\doorbell2\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.1_26c84abfb478f26097e297e2e235b9f74926afb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sky\Desktop\doorbell2\app\libs\android-support-v7-recyclerview.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95c892d244f49414bbdf92c2235a32ea06bc68aa">
+        <dex dex="C:\Users\sky\Desktop\doorbell2\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v7-recyclerview_f044effe31a7c91354962b8998c04ce03d6efc85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="D:\androidstudioSDK\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
-        jumboMode="false"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
-        <dex dex="C:\Users\sky\Desktop\doorbell2\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0_7854c4272f2bda1222c32fa27f97da3dd4b01f4c.jar" />
+        <dex dex="C:\Users\sky\Desktop\doorbell2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-20.0.0_7854c4272f2bda1222c32fa27f97da3dd4b01f4c\classes.dex" />
     </item>
 
 </items>

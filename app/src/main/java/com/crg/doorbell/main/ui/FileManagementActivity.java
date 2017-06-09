@@ -51,7 +51,8 @@ public class FileManagementActivity extends Activity{
 //		for (int i= 'A'; i<='z' ; i++){
 //			mDatas.add(""+(char)i);
 //		}
-        mDatas = new GetFileData().GetFileData();
+        mDatas = new GetFileData().GetFileData(FileManagementActivity.this);
+		System.out.println("<<<<<<<<<<<<<<<<<>>>>>>>>>>>");
 	}
 
 	private void init() {
